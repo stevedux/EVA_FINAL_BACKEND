@@ -70,19 +70,7 @@
         <button type="button" name="todos" class="btn-flat waves-effect" id="mostrarTodos">Mostrar Todos</button>
       </div>
 
-      <div id="resultadosBusqueda">
-
-        <div class="itemMostrado ">          
-          <img src="img/home.jpg">
-
-          <p class="card-stacked">
-            <strong>Direccion: </strong> khjsjkdhjk lsjdn <br>
-            <strong>Direccion: </strong> khjsjkdhjk lsjdn <br>
-          </p>
-
-        </div>
-
-      </div>
+      <div id="resultadosBusqueda"></div>
 
     </div>
   </div>
